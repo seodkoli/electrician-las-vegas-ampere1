@@ -1,1 +1,1 @@
-Sitemap: https://electrician-las-vegas-ampere1.netlify.app/sitemap.xml
+Sitemap: sitemap.xml
